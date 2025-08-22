@@ -16,9 +16,6 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ3cWZuZXRhNmJra3BrejYxa2djYXp0enA2YnJkZTZ3a2dwbHF6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-</div>
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 
